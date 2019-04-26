@@ -1,0 +1,14 @@
+E:\asp.net-core\FileServer\FileServer\bin\Debug\netcoreapp2.1\FileServer.deps.json
+E:\asp.net-core\FileServer\FileServer\bin\Debug\netcoreapp2.1\FileServer.runtimeconfig.json
+E:\asp.net-core\FileServer\FileServer\bin\Debug\netcoreapp2.1\FileServer.runtimeconfig.dev.json
+E:\asp.net-core\FileServer\FileServer\bin\Debug\netcoreapp2.1\FileServer.dll
+E:\asp.net-core\FileServer\FileServer\bin\Debug\netcoreapp2.1\FileServer.pdb
+E:\asp.net-core\FileServer\FileServer\obj\Debug\netcoreapp2.1\FileServer.csprojAssemblyReference.cache
+E:\asp.net-core\FileServer\FileServer\obj\Debug\netcoreapp2.1\FileServer.csproj.CoreCompileInputs.cache
+E:\asp.net-core\FileServer\FileServer\obj\Debug\netcoreapp2.1\FileServer.RazorAssemblyInfo.cache
+E:\asp.net-core\FileServer\FileServer\obj\Debug\netcoreapp2.1\FileServer.RazorAssemblyInfo.cs
+E:\asp.net-core\FileServer\FileServer\obj\Debug\netcoreapp2.1\FileServer.AssemblyInfoInputs.cache
+E:\asp.net-core\FileServer\FileServer\obj\Debug\netcoreapp2.1\FileServer.AssemblyInfo.cs
+E:\asp.net-core\FileServer\FileServer\obj\Debug\netcoreapp2.1\FileServer.RazorTargetAssemblyInfo.cache
+E:\asp.net-core\FileServer\FileServer\obj\Debug\netcoreapp2.1\FileServer.dll
+E:\asp.net-core\FileServer\FileServer\obj\Debug\netcoreapp2.1\FileServer.pdb

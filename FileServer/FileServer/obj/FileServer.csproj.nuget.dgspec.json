@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\asp.net-core\\middle_core\\middle_core\\middle_core.csproj": {}
+    "E:\\asp.net-core\\FileServer\\FileServer\\FileServer.csproj": {}
   },
   "projects": {
-    "E:\\asp.net-core\\middle_core\\middle_core\\middle_core.csproj": {
+    "E:\\asp.net-core\\FileServer\\FileServer\\FileServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\asp.net-core\\middle_core\\middle_core\\middle_core.csproj",
-        "projectName": "middle_core",
-        "projectPath": "E:\\asp.net-core\\middle_core\\middle_core\\middle_core.csproj",
+        "projectUniqueName": "E:\\asp.net-core\\FileServer\\FileServer\\FileServer.csproj",
+        "projectName": "FileServer",
+        "projectPath": "E:\\asp.net-core\\FileServer\\FileServer\\FileServer.csproj",
         "packagesPath": "C:\\Users\\zmartgear\\.nuget\\packages\\",
-        "outputPath": "E:\\asp.net-core\\middle_core\\middle_core\\obj\\",
+        "outputPath": "E:\\asp.net-core\\FileServer\\FileServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
