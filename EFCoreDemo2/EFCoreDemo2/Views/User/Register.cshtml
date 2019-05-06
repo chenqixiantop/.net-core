@@ -1,0 +1,26 @@
+﻿@model EFCoreDemo2.Models.Users
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h2>Register</h2>
+<form asp-controller="User" asp-action="Register" method="post">
+    <div class="form-group">
+        <label asp-for="UserName" class="col-md-2 control-label">用户名：</label>
+        <div class="col-md-10">
+            <input asp-for="UserName" class="form-control" />
+            <span asp-validation-for="UserName" class="text-danger"></span>
+        </div>
+
+        <label asp-for="Password" class="col-md-2 control-label">密码：</label>
+        <div class="col-md-10">
+            <input asp-for="Password" class="form-control" />
+            <span asp-validation-for="Password" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="保存" class="btn btn-default" />
+        </div>
+    </div>
+</form>
+

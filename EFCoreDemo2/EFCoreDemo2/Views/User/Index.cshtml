@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+@model IEnumerable<EFCoreDemo2.Models.Users>
+    @{
+    ViewBag.Title = "用户";
+    }
+
+    <table class="table">
+        <tr>
+            <td>Id</td>
+            <td>用户名</td>
+        </tr>
+
+        @foreach(var item in Model)
+        {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.Id)</td>
+            <td>@Html.DisplayFor(modelItem => item.UserName)</td>
+        </tr>
+        }
+    </table>
+
